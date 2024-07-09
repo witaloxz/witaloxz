@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💻 Frontend<br>⌨ Estudante de programação<br>📚 Análise e Desenvolvimento de Sistemas <br>📚Sistemas para Interne
+<br>💻 Frontend<br>⌨ Estudante de programação<br>📚 Análise e Desenvolvimento de Sistemas <br>📚Sistemas para Internet
 
 
 ## 🌐 Socials:
