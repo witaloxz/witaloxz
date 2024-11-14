@@ -1,15 +1,20 @@
 ###
-<h2 align="left">Olá, Eu sou Witalo Dias</h2>
+<h2 align="center">Olá, Eu sou Witalo Dias</h2>
 
 
 
-<p align="left">Sou apaixonado por tecnologia e tudo o que envolve inovação. Adoro aprender, criar e usar a tecnologia para resolver problemas e melhorar a vida das pessoas.</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente  estudo Java paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras..</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=witaloxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=witaloxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=witaloxz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/witaloxz/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=witaloxz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
 
 ###
@@ -55,6 +60,12 @@
  <a href = "mailto:witalodias1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/witalo-dias-775a59289" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img src="https://raw.githubusercontent.com/witaloxz/witaloxz/output/snake.svg" alt="Snake animation" />
+
+
+  
+
 
 
 
