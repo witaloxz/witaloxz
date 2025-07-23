@@ -1,4 +1,7 @@
-<h2 align="center">Olá, eu sou Witalo Dias 👋</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00F6&size=24&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Witalo+Dias!" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas. <br>
