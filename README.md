@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF00F6&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Witalo+Dias!%0ADesenvolvedor+Java+%7C+Spring+Boot%0AApaixonado+por+Tecnologia+e+Aprendizado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF00F6&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Witalo+Dias!" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas.<br />
-  Atualmente estudo Java e estou sempre buscando novos desafios e aprendizados na área de tecnologia.
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNICSUL.<br/>
+  🚀 Apaixonado por Tecnologia e Aprendizado<br/>
+  ☕ Amante de café<br/>
 </p>
 
 ---
@@ -23,24 +22,22 @@
 ### 💻 Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </p>
-
 ---
 
 ### 🛠️ Ferramentas de Trabalho
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
 </p>
-
 ---
 
 ### 📫 Contatos
