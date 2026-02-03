@@ -1,19 +1,33 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=FF00F6&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Witalo+Dias!;Desenvolvedor+Full-Stack;Angular+%7C+Spring+Boot"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=FF00F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Witalo+Dias!;Full-Stack+Developer;Angular+%7C+Spring+Boot"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  Desenvolvedor <strong>Full-Stack</strong> focado na criação de aplicações web completas, escaláveis e bem estruturadas, com atenção à qualidade do código e organização da solução.<br/><br/>
-  Atuo do <strong>front-end</strong> ao <strong>back-end</strong>, desenvolvendo <strong>APIs REST</strong>, realizando integração com <strong>bancos de dados</strong> e implementando autenticação, autorização e controle de acesso seguindo boas práticas de arquitetura.<br/><br/>
-  Trabalho principalmente com <strong>Angular</strong> e <strong>Spring Boot</strong>, priorizando <strong>código limpo</strong>, <strong>testável</strong> e de fácil manutenção, com foco em soluções claras e sustentáveis.
+  <strong>Full-Stack Developer</strong> focused on building complete, scalable, and well-structured web applications, with strong attention to code quality and clean architecture.<br/><br/>
+  I work across the <strong>front-end</strong> and <strong>back-end</strong>, developing <strong>REST APIs</strong>, integrating with <strong>databases</strong>, and implementing authentication, authorization, and access control following industry best practices.<br/><br/>
+  My main stack is <strong>Angular</strong> and <strong>Spring Boot</strong>, always prioritizing <strong>clean</strong>, <strong>testable</strong>, and <strong>maintainable</strong> code, focused on clear and sustainable solutions.
 </p>
 
 ---
 
-## 🧠 Linguagens & Frameworks
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:witalodias1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/witalo-dias-775a59289" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
+
+
+## 🧠 Languages & Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -27,7 +41,7 @@
 
 ---
 
-## 🗄️ Bancos de Dados & Cloud
+## 🗄️ Databases & Cloud
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
@@ -38,7 +52,7 @@
 
 ---
 
-## 🧪 Dev, Testes & Ferramentas
+## 🧪 Dev, Testing & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" />
@@ -62,15 +76,7 @@
   />
 </p>
 
+
 ---
 
-## 📫 Contato
-
-<p align="left">
-  <a href="mailto:witalodias1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/witalo-dias-775a59289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+⭐ Feel free to explore my repositories and connect with me!
