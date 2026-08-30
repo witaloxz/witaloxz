@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=header"/>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&pause=1000&color=0A66C2&width=800&center=true&lines=Hi!+Welcome+to+my+GitHub!;I'm+Witalo+Dias;Full-Stack+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&pause=1000&color=A855F7&width=800&center=true&lines=Hi!+Welcome+to+my+GitHub!;I'm+Witalo+Dias;Full-Stack+Developer"
   />
 </p>
   <blockquote>
@@ -25,17 +25,17 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 <div align="center">
-  <img width="420px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=witaloxz&show_icons=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=0A66C2&bg_color=0d1117">
-  <img width="380px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=witaloxz&layout=compact&hide_border=true&title_color=0A66C2&text_color=0A66C2&bg_color=0d1117">
+  <img width="420px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=witaloxz&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=a855f7&bg_color=0d1117">
+  <img width="380px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=witaloxz&layout=compact&hide_border=true&title_color=a855f7&text_color=a855f7&bg_color=0d1117">
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 <div align="center">
-  <a href="https://www.instagram.com/witalozx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:witalodias1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/witalozx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23a855f7?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:witalodias1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23a855f7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/witalo-dias-775a59289" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23a855f7?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
@@ -69,4 +69,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=footer"/>
